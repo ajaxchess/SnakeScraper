@@ -1,3 +1,7 @@
+# Project related
+secretpassword.txt
+golf_scrape.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
