@@ -1,0 +1,2 @@
+# SnakeScraper
+Python Web Scraper
